@@ -1,10 +1,11 @@
-# kartopy
+# kryopy
 
-Created for easy processing of CryoSat2 radar alrimetry data as a part of a Doctoral project of K.M. Sejan at Utrecht University. 
+Created for easy processing of CryoSat2 radar alrimetry data and comparison to ICESat2, as a part of a Doctoral project of K.M. Sejan at Utrecht University. 
 
 ## Getting Started
 
-These instructions will get you a copy of the project up and running on your local machine for development and testing purposes. See deployment for notes on how to deploy the project on a live system.
+To run this package on your machine in parallel, use Master_code.py. 
+At this stage, this package has been build to be run through GUI developement enviroment, and not through a terminal. 
 
 ## Versioning
 
