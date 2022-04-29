@@ -12,7 +12,7 @@ More detailed instructions coming soon...
 
 ## Versioning
 
-For the versions available, see the [tags on this repository](https://github.com/your/project/tags). 
+For the versions available, see the [tags on this repository](https://github.com/CryoKatOnIce/kryopy/tags). 
 
 ## Authors
 
