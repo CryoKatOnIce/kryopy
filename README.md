@@ -1,6 +1,6 @@
 # kryopy
 
-Created for easy processing of CryoSat2 radar alrimetry data and comparison to ICESat2, as a part of a Doctoral project of K.M. Sejan at Utrecht University. 
+Created for easy processing of CryoSat2 radar altimetry data and comparison to ICESat2, as a part of the Doctoral project of K.M. Sejan at Utrecht University. 
 
 ## Getting Started
 
